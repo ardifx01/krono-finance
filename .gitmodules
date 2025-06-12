@@ -1,0 +1,6 @@
+[submodule "krono-contracts/lib/forge-std"]
+	path = krono-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "krono-contracts/lib/redstone-oracles-monorepo"]
+	path = krono-contracts/lib/redstone-oracles-monorepo
+	url = https://github.com/redstone-finance/redstone-oracles-monorepo
